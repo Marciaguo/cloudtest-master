@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ServerConsumer/ServerConsumer.iml" filepath="$PROJECT_DIR$/ServerConsumer/ServerConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerProvider/ServerProvider.iml" filepath="$PROJECT_DIR$/ServerProvider/ServerProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerProviderTwo/ServerProviderTwo.iml" filepath="$PROJECT_DIR$/ServerProviderTwo/ServerProviderTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerRegisterCenter/ServerRegisterCenter.iml" filepath="$PROJECT_DIR$/ServerRegisterCenter/ServerRegisterCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudtest.iml" filepath="$PROJECT_DIR$/cloudtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerConsumer/demo (1).iml" filepath="$PROJECT_DIR$/ServerConsumer/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerProvider/demo (2).iml" filepath="$PROJECT_DIR$/ServerProvider/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerProviderTwo/demo (3).iml" filepath="$PROJECT_DIR$/ServerProviderTwo/demo (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerRegisterCenter/demo (4).iml" filepath="$PROJECT_DIR$/ServerRegisterCenter/demo (4).iml" />
+    </modules>
+  </component>
+</project>
